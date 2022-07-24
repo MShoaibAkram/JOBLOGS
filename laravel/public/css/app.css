@@ -1,0 +1,8 @@
+
+.color-white{
+    filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(100deg) brightness(118%) contrast(119%);
+}
+
+#dialog-confirm, #dialog-confirm-restore{
+    display:none;
+}
